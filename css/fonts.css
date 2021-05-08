@@ -11,18 +11,6 @@
     font-display: swap;
 }
 @font-face {
-    font-family: 'Learning';
-    src: url('../fonts/LearningCurveDings.eot');
-    src: url('../fonts/LearningCurveDings.eot?#iefix') format('embedded-opentype'),
-        url('../fonts/LearningCurveDings.woff2') format('woff2'),
-        url('../fonts/LearningCurveDings.woff') format('woff'),
-        url('../fonts/LearningCurveDings.ttf') format('truetype'),
-        url('../fonts/LearningCurveDings.svg#LearningCurveDings') format('svg');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-}
-@font-face {
     font-family: 'Brandon';
     src: url('../fonts/BrandonGrotesque-Black.eot');
     src: url('../fonts/BrandonGrotesque-Black.eot?#iefix') format('embedded-opentype'),
