@@ -49,3 +49,35 @@ header{
     height:187px;
     padding:67px 299px;
 }
+/* end of first section */
+.green{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width:100%;
+    height:779px;
+    flex-wrap: wrap;
+    background-color: #306B34;
+}
+.green img{
+    height:453px;
+    margin-right: 40px;
+}
+.green div{
+    width:306px;
+    height:394px;
+    margin-top:-70px
+}
+.green h2{
+    font-family: Brandon;
+    font-size:40px;
+    color: #19381F;
+    text-transform: uppercase;
+    margin-bottom: 50px;
+}
+.green p{
+    font-family: Kazimir;
+    color:#F4F4F1;
+    font-size: 20px;
+    line-height: 30px;
+}
