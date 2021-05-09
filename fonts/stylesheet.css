@@ -1,13 +1,13 @@
 @font-face {
     font-family: 'Kazimir';
-    src: url('Kazimir-LightItalic.eot');
-    src: url('Kazimir-LightItalic.eot?#iefix') format('embedded-opentype'),
-        url('Kazimir-LightItalic.woff2') format('woff2'),
-        url('Kazimir-LightItalic.woff') format('woff'),
-        url('Kazimir-LightItalic.ttf') format('truetype'),
-        url('Kazimir-LightItalic.svg#Kazimir-LightItalic') format('svg');
-    font-weight: 300;
-    font-style: italic;
+    src: url('Kazimir-Regular.eot');
+    src: url('Kazimir-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Kazimir-Regular.woff2') format('woff2'),
+        url('Kazimir-Regular.woff') format('woff'),
+        url('Kazimir-Regular.ttf') format('truetype'),
+        url('Kazimir-Regular.svg#Kazimir-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
     font-display: swap;
 }
 
