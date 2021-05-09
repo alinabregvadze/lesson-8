@@ -45,6 +45,7 @@ header{
     color:#19381F;
     font-size: 40px;
     font-family: Kazimir;
+    font-style: italic;
     width:706px;
     height:187px;
     padding:67px 299px;
@@ -78,6 +79,92 @@ header{
 .green p{
     font-family: Kazimir;
     color:#F4F4F1;
+    font-style: italic;
     font-size: 20px;
     line-height: 30px;
 }
+/* end of secod section */
+.white{
+    position: relative;
+    height:617px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.white h2{
+    position: absolute;
+    font-family: Kazimir;
+    font-size:40px;
+    font-style: italic;
+    color: #36413E;
+    text-transform: capitalize;
+    top:110px;
+}
+.white div{
+    position: absolute;
+    top:260px;
+    width:696px;
+    height:247px;
+}
+.white p{
+    color:#7F7F7F;
+    font-family: Kazimir;
+    font-size:20px;
+    line-height: 25px;
+    text-align:center;
+    font-style: italic;
+}
+#ending{
+    margin-top:30px;
+}
+.white a{
+    position: absolute;
+    bottom:25px;
+    width:148px;
+    height: 48px;
+    background-color: #36413E;
+    color:#FFFFFF;
+    font-family: Brandon;
+    font-size:12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-transform: capitalize;
+}
+/* end of third section */
+footer{
+    height:75px;
+    background-color: #306B34;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+footer div{
+    position: absolute;
+    width:50px;
+    height:16px;
+    left:31px;
+}
+.privacy{
+    color:#F4F4F1;
+    font-family:Brandon;
+    font-weight:bold;
+    font-size: 12px;
+}
+.footer-nav{
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    height:15px;
+    width:275px;
+    left:40%;
+}
+.footer-nav a{
+    color:#FFFFFF;
+    font-family:Brandon;
+    font-weight:300;
+    font-size: 10px;
+}
+/* end of footer */
